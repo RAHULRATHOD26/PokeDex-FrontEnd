@@ -1,0 +1,26 @@
+{
+  "name": "pokedex-frontend",
+  "version": "1.0.0",
+  "description": "A modern, responsive Pokémon directory built using HTML, CSS, and JavaScript, powered by the PokéAPI.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RAHULRATHOD26/PokeDex-FrontEnd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/RAHULRATHOD26/PokeDex-FrontEnd/issues"
+  },
+  "homepage": "https://github.com/RAHULRATHOD26/PokeDex-FrontEnd#readme",
+  "devDependencies": {
+    "html-validate": "^11.10.0",
+    "stylelint": "^17.14.1",
+    "stylelint-config-standard": "^40.0.0"
+  }
+}
